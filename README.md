@@ -1,2 +1,2 @@
 # Faburabo
-Fab Lab (ファブラボ) Manager
+Fab Lab (ファブラボ) Management System
